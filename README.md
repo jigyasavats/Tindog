@@ -6,10 +6,10 @@ A modern, fully responsive landing page for TinDog, a dog matchmaking platform. 
 
 - **HTML5**
 - **CSS3**
-- **Bootstrap 4**
-- **Font Awesome 5**
-- **Google Fonts** (Montserrat, Ubuntu)
-
+- **Bootstrap**
+- **Font Awesome**
+- **Google Fonts**
+  
 ## 📋 Features
 
 - Responsive navigation bar with mobile toggle
@@ -52,6 +52,3 @@ TinDog/
 | Call to Action | Final download prompt                            |
 | Footer         | Social media links & copyright                   |
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
